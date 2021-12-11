@@ -1,0 +1,32 @@
+[
+    {
+        "Age": 2,
+        "Sex": "male",
+        "CountryCode": 36,
+        "Passport": 8614127422
+    },
+    {
+        "Age": 32,
+        "Sex": "female",
+        "CountryCode": 40,
+        "Passport":8615123456
+    },
+    {
+        "Age": 56,
+        "Sex": "female",
+        "CountryCode": 31,
+        "Passport":8614546285
+    },
+    {
+        "Age": 74,
+        "Sex": "male",
+        "CountryCode": 248,
+        "Passport":8616632147
+    },
+    {
+        "Age": 22,
+        "Sex": "male",
+        "CountryCode": 8,
+        "Passport":8617896541
+    }
+]
